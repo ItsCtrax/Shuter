@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="catch_up.pygame" />
+          <option value="catch_up.x1" />
+          <option value="catch_up.y1" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
